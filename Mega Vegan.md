@@ -1,0 +1,6 @@
+- banner
+  - ![mega vegan](https://www.thebigsmoke.com.au/wp-content/uploads/vegan-person.jpg)
+  -  Mega Vegan
+  -  you need to respect everybody and their choices
+- profiel van personage
+  - de
