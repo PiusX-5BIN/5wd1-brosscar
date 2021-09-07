@@ -3,4 +3,5 @@
   -  Mega Vegan
   -  you need to respect everybody and their choices
 - profiel van personage
-  - de
+  - ![mega vegan](https://eyeofthecylone.files.wordpress.com/2013/02/happy-vegetarian.jpg)
+  - 
