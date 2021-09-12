@@ -27,4 +27,6 @@ oma magda
   > ons huis stond in brand en toen kwam Mega Vegan ons redde 
   ze bluste het vuur door bollen hummus te gooien en ons zo te redden
 
+  comic
+  ![comic 1](https://images-na.ssl-images-amazon.com/images/I/51I1Nc3wPzL.jpg)
   
