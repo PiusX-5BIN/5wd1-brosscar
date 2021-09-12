@@ -19,3 +19,5 @@ oma magda
   katje toby
   ![katje toby](https://image.freepik.com/vrije-vector/schattige-kat-cartoon-zittend-op-een-witte-achtergrond_194935-90.jpg
   )
+  > ik zat vast in een boom en toen kwam mega vegan en die had de boom aangeraakt zodat ik in allemaal lekkere hummus viel
+  toen heb ik mijn buikje rond gegeten
