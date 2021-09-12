@@ -21,3 +21,6 @@ oma magda
   )
   > ik zat vast in een boom en toen kwam mega vegan en die had de boom aangeraakt zodat ik in allemaal lekkere hummus viel
   toen heb ik mijn buikje rond gegeten
+
+  famillie
+  ![famillie](https://cdn3.vectorstock.com/i/1000x1000/95/27/happy-family-cartoon-vector-21559527.jpg)
