@@ -24,3 +24,7 @@ oma magda
 
   famillie
   ![famillie](https://cdn3.vectorstock.com/i/1000x1000/95/27/happy-family-cartoon-vector-21559527.jpg)
+  > ons huis stond in brand en toen kwam Mega Vegan ons redde 
+  ze bluste het vuur door bollen hummus te gooien en ons zo te redden
+
+  
