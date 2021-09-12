@@ -32,3 +32,6 @@ oma magda
 
 12/09/2021 SUPER VEGAN
 
+![comic 2](https://www.cartoonistgroup.com/properties/grimmy/art_images/cg54037145141c4.jpg)
+
+22/05/2021 THE VEGAN RESTAURANT
