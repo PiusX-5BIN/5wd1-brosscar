@@ -29,4 +29,6 @@ oma magda
 
   comic
   ![comic 1](https://images-na.ssl-images-amazon.com/images/I/51I1Nc3wPzL.jpg)
-  
+
+12/09/2021 SUPER VEGAN
+
