@@ -16,3 +16,6 @@ oma magda
   ![opa jos](https://thumbs.dreamstime.com/z/leuke-opa-106527106.jpg)
   > ja der was zo is een gek ventje in mijnen woonwijk en die wou een bom laten ontploffen ma ale ja gelukkig was Mega Vegan der weer en die heeft de bom ontmandelt door m gewoon aan te raken en die veranderde dan in mega lekkere hummus en dan kon de politie da manneke arresteren he
 
+  katje toby
+  ![katje toby](https://image.freepik.com/vrije-vector/schattige-kat-cartoon-zittend-op-een-witte-achtergrond_194935-90.jpg
+  )
