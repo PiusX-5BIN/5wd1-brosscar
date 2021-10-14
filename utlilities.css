@@ -5,7 +5,22 @@
     background-color: green;
 }
 
+.bg-white{
+    background-color: white;
+}
+
+.bg-grey{
+    background-color: grey;
+}
+
 .textWhite{
      color:white;
 }
 
+.shadow-high{
+box-shadow: 0 0 1rem;
+}
+
+.shadow-low{
+    box-shadow: 0 0 .5rem;
+}

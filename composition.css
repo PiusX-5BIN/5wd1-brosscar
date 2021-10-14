@@ -10,10 +10,14 @@ body{
     margin: 0;
 }
 
+
 main{
     padding: 1rem;
 }
 
+footer{
+    margin: 0;
+}
 
 #socialeMedia {
     text-align: center;
