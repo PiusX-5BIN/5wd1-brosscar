@@ -1,7 +1,11 @@
 /*UTILITIES*/
 /*kleine klassen die helpen met kleur  en interne ruimte*/
 
-.bg-green{
+.bgGreen{
     background-color: green;
+}
+
+.textWhite{
+     color:white;
 }
 
