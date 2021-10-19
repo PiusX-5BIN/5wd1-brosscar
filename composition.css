@@ -7,6 +7,8 @@
     --color-contrast: #AAAAAA;
     --color-complement: #F1F1F1;
     --color-accent: green;
+
+    --card-padding: 1rem;
 }
 
 img{
@@ -40,10 +42,13 @@ footer{
 }
 
 #socialeMedia>* {
-    margin: 1rem;
+    margin: var(--card-padding);
 }
     
-
+.card {
+    padding: var(--card-padding);
+    margin-bottom: 1rem;
+}
 
 #socialeMediaLijst {
     margin: 0;
