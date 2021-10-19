@@ -2,11 +2,11 @@
 /*kleine klassen die helpen met kleur  en interne ruimte*/
 
 .bgGreen{
-    background-color: green;
+    background-color: var(--color-accent);
 }
 
 .bg-white{
-    background-color: white;
+    background-color: var(--color-dominant);
 }
 
 .bg-grey{
@@ -14,7 +14,7 @@
 }
 
 .textWhite{
-     color:white;
+     color:var(--color-dominant);
 }
 
 .shadow-high{

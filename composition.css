@@ -1,6 +1,14 @@
 /*composition */
 /*heeft alles te maken met ruimte */
 
+
+:root{
+    --color-dominant: #FFFFFF;
+    --color-contrast: #AAAAAA;
+    --color-complement: #F1F1F1;
+    --color-accent: green;
+}
+
 img{
     max-width: 100%;
 }
